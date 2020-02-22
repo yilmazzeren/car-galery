@@ -1,6 +1,6 @@
 # mobiroller-odev
 
-# Projei indirdikten sonra projenin bulunduğu dizinde ;
+# Projeyi indirdikten sonra projenin bulunduğu dizinde ;
   
   npm install
   
