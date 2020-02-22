@@ -1,0 +1,67 @@
+
+  
+       [
+        {
+            
+            "id" : 1,
+            "model" : "IBIZA",
+            "modelName" :"Ibiza 1.3 Ecotech DS",
+            "carPrice" :195000,
+            "selectedColor":"",
+            "selectedCar":"false",
+            "accessories":[
+                {
+                    "id" : "1",
+                    "iId":"i1",
+                    "name":"KOLTUK ISITMA",
+                    "price":3500,
+                    "isSelected": true
+                },
+                {
+                    "id" : "2",
+                    "iId":"i2",
+                    "name":"DİJİTAL KLİMA",
+                    "price":2400,
+                    "isSelected": false
+                },
+                {
+                    "id" : "3",
+                    "iId":"i3",
+                    "name":"OTOMATİK PARK SİSTEMİ",
+                    "price":7500,
+                    "isSelected": false
+                }
+            ],
+            "imgName":"./images/bitmapCar.png"
+        },
+        {
+            
+            "id" : 2,
+            "model" : "ARONA",
+            "modelName" :"Arona 1.0 TSI",
+            "carPrice" :250000,
+            "selectedColor":"",
+            "selectedCar":"false",
+            "accessories":[
+                {
+                    "iId":"i1",
+                    "name":"KOLTUK ISITMA",
+                    "price":"3500",
+                    "isSelected": true
+                },
+                {
+                    "iId" : "i2",
+                    "name":" DOKUNMATİK RENKLİ EKRANLI MULTİMEDYA SİSTEMİ",
+                    "price":"2400",
+                    "isSelected": false
+                },
+                {
+                    "iId":"i3",
+                    "name":"OTOMATİK PARK SİSTEMİ",
+                    "price":"7500",
+                    "isSelected": false
+                }
+            ],
+            "imgName":"./images/bitmapCar2.png"
+        }]
+

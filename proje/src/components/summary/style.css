@@ -1,0 +1,29 @@
+.summary-wrapper {
+    display: flex;
+    width: 60%;
+    margin-bottom: 10rem;
+    margin-top: 10rem;
+    align-items: baseline;
+    margin-left: 10rem;
+}
+
+
+
+.car-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 25%;
+}
+
+.car-info-name {
+    font-size: 1.6rem;
+    list-style-type: none;
+}
+
+.property {
+    margin-top: 2rem;
+    font-size: 1.6rem;
+    color: lightgray
+    
+}

@@ -1,0 +1,85 @@
+/* İmage*/
+
+.car-image {
+  opacity: 0.3;
+}
+
+.car {
+  display: flex;
+  margin-top: 9rem;
+  margin-bottom: 5rem;
+  width: 100%;
+  justify-content: center;
+  align-items: inherit;
+}
+
+.car-circle {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.model-image-button {
+  display: flex;
+  flex-direction: column;
+}
+.label-image {
+  display: flex;
+  flex-direction: column;
+}
+
+.car-circle__model-name {
+  font-size: 13rem;
+  color: white;
+  font-weight: 800;
+  margin-bottom: -25%;
+  letter-spacing: -1rem;
+}
+
+.car-circle-wrapper {
+  /* border: 1px solid gray; */
+  border-radius: 50%;
+  padding-top: 6rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-right: 5rem;
+  margin-left: 4rem;
+}
+
+.tik {
+  background-color: #000000;
+  border-radius: 50%;
+  width: 3.3rem;
+  height: 3.3rem;
+  color: white;
+  
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  left: 38rem;
+  display: none;
+}
+
+.select-button {
+  display: none;
+  margin-bottom: 3rem;
+  background-color: black;
+  color: white;
+  border: 0.1rem;
+  border-radius: 1.5rem;
+  padding: 0.5rem;
+  width: 20%;
+  height: 6%;
+  text-align: center;
+  font-size: 1.6rem;
+  transition: all 0.3s ease;
+}
+
+.select-button:hover {
+  cursor: pointer;
+  background-color: #f2f2f2;
+  color: black;
+}
+
+.p {
+  display: none;
+}

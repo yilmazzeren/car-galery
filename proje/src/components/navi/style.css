@@ -1,0 +1,43 @@
+
+
+
+.containerr {
+    display: flex;
+    margin-top: 6.5rem;
+    flex-direction: column;
+    align-items: center;
+  }
+  .page-navbar {
+    display: flex;
+    justify-content: center;
+   
+    flex-direction: column;
+    align-items: center;
+   
+  }
+  
+  .navbar-item {
+    list-style-type: none;
+    margin-right: 55px;
+    color: lightgray;
+    text-decoration: none;
+    font-size: 1.6rem;
+    letter-spacing: 0.15rem;
+  }
+  .navbar-item:focus {
+    color: black;
+    border-bottom: 2px solid black;
+  }
+  .navbar-items {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin-top: 5.5rem;
+  
+  }
+  
+  /*
+  ---------------------
+  */
+  
+  

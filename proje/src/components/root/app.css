@@ -1,0 +1,11 @@
+*{
+    font-size: 10px;
+    font-family: Qanelas;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}

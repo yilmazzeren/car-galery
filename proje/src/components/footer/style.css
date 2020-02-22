@@ -1,0 +1,38 @@
+.page-footer {
+    display: flex;
+    width: 100vh;
+    box-shadow: 0rem 0.2rem 7rem rgba(0, 0, 0, 0.0703671);
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 1.1rem;
+}
+  
+
+.total-label {
+    font-size: 1.6rem;
+}
+
+.right-side {
+    display: flex;
+    font-size: 1.6rem;
+    background-color: #000000;
+    border: 1px solid #f2f2f2;
+    color: white;
+    height: 9.5rem;
+    width: 23.5rem;
+    border-radius: 0rem 1.1rem 1.1rem 0rem;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.left-side {
+    display: flex;
+}
+
+.left-side__image {
+    border-right: 2px solid #f2f2f2;
+    padding-right: 3rem;
+}
+.left-side__price-section {
+    margin-left: 3rem;
+}
